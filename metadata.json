@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Toro Rush",
+  "description": "Juego arcade estilo Pac-Man con un torero y cuatro toros en el ruedo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
